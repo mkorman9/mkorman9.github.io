@@ -3,7 +3,8 @@ layout: default
 ---
 
 {% for post in site.posts %}
-{{ post.title }}
+# [{{ post.title }}](post.url)
+<p class="meta">post.date</p>
 {{ post.content }}
 {% endfor %}
 
