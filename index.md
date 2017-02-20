@@ -2,7 +2,6 @@
 layout: default
 ---
 
-# [Post 1](subpage)
 {% include_relative subpage.md %}
 
 # [](#header-1)Header 1
