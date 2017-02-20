@@ -2,7 +2,9 @@
 layout: default
 ---
 
-{% include_relative subpage.md %}
+{% for post in site.posts %}
+{{ post.content }}
+{% endfor %}
 
 # [](#header-1)Header 1
 
