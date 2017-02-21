@@ -8,7 +8,7 @@ title: Lorem Ipsum
    
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vitae purus odio. Suspendisse ullamcorper turpis at ipsum sagittis, nec vehicula nibh vestibulum. Aliquam purus enim, faucibus at pharetra non, malesuada eget nibh. Maecenas ut lorem lectus. Ut commodo dolor id congue feugiat. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nullam dignissim eros non justo pellentesque posuere. Nunc porttitor purus sem, ac consectetur lorem malesuada nec. Quisque porta nunc eu lectus tincidunt placerat. Nulla molestie quis neque eget ullamcorper. Ut euismod pharetra lobortis. Suspendisse ac sapien metus.
 
-<!--break-->
+<!--content-->
 
  Fusce volutpat odio pulvinar, egestas est eget, lobortis est. Duis placerat vitae libero sed pretium. Vestibulum sit amet ante vel tellus scelerisque vehicula quis a mauris. Suspendisse lectus augue, venenatis non augue et, efficitur rhoncus ante. Suspendisse potenti. Etiam sodales quam consequat mollis venenatis. Donec nec enim nisi. Vivamus quis tortor mauris. Aenean dictum massa eget tincidunt tincidunt.
 
