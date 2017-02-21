@@ -3,6 +3,9 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <meta http-equiv="Pragma" content="no-cache">
+    <meta http-equiv="Expires" content="-1">
+
     <title>{{ site.title | default: site.github.repository_name }}</title>
 
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
@@ -17,8 +20,10 @@
         <h1>{{ site.title | default: site.github.repository_name }}</h1>
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
-        <p class="view"><a href="{{ site.url }}">Home</a></p>
-        <p class="view"><a href="{{ site.github.owner_url }}">GitHub</a></p>
+        <p class="view">
+            <a href="{{ site.url }}">Home</a>
+            <a href="{{ site.github.owner_url }}">GitHub</a>
+        </p>
     </header>
     <section>
 
