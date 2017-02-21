@@ -7,7 +7,7 @@
     <link href="{{ site.url }}atom.xml" rel="self"/>
     <link href="{{ site.url }}"/>
     <updated>{{ site.time | date_to_xmlschema }}</updated>
-    <id>https://mkorman9.github.io/</id>
+    <id>{{ site.url }}</id>
     <author>
         <name>mkorman9</name>
     </author>
