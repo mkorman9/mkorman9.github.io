@@ -1,5 +1,5 @@
 ---
-layout: jekyll/minima
+layout: default
 ---
 
 {% for post in site.posts %}
