@@ -1,4 +1,4 @@
-remote_theme: jekyll-theme-minimal
+remote_theme: jekyll/minima
 
 title: mkorman9
 description: Example Jekyll page
