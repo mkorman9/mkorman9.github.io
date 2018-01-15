@@ -14,6 +14,12 @@
     <!--[if lt IE 9]>
     <script src="https://raw.githubusercontent.com/aFarkas/html5shiv/master/dist/html5shiv.min.js"></script>
     <![endif]-->
+    <!-- ugly workaround from https://gist.github.com/konklone/9968713 -->
+    <script>
+        var host = "mkorman.info";
+        if ((host == window.location.host) && (window.location.protocol != "https:"))
+            window.location.protocol = "https";
+    </script>
 </head>
 <body>
 <div class="wrapper">
