@@ -1,6 +1,27 @@
-theme: jekyll-theme-minimal
+# Site settings
+title:          mkorman.info
+description:    "Nothing here yet"
+baseurl:        ""
+url:            "https://mkorman.info"
 
-title: mkorman9
-description: Example Jekyll page
+# Author
+author:
+  name:         Michał Korman
+  url:          https://mkorman.info
+  email:        michal.korman [AT] icloud [DOT] com
 
-twitter_url: https://twitter.com/mkorman9
+# Build settings
+markdown:       kramdown
+
+# Assets
+sass:
+  sass_dir:     _sass
+  style:        compressed
+
+# Gems
+plugins:
+  - jekyll-paginate
+
+# Permalinks
+permalink:      /:year-:month-:day/:title
+paginate:       5
