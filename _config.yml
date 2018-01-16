@@ -25,3 +25,9 @@ plugins:
 # Permalinks
 permalink:      /:year-:month-:day/:title
 paginate:       5
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - THEME_LICENSE
+  - tale.gemspec
