@@ -5,4 +5,4 @@ author: "mkorman"
 permalink: /about
 ---
 
-Nothing here either
+**Contact:** michal.korman [AT] icloud [DOT] com 

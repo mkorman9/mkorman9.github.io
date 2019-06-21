@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Post #2"
+title:  "gCTF 2019 Beginners Quest: Enter Space-Time Coordinates"
 author: "mkorman"
 ---
 
@@ -13,3 +13,7 @@ Vivamus ullamcorper pretium mauris sit amet tristique. Ut dictum, diam vel venen
 Aenean in maximus sapien, feugiat pretium metus. Suspendisse potenti. Curabitur nec vulputate est, a sagittis velit. Curabitur vitae eros a enim porta sagittis at sed elit. Sed non nisi enim. Aenean ultricies dui ut fringilla mattis. Ut dictum odio neque, non aliquam neque pretium et. Donec non luctus massa. Maecenas dui velit, condimentum id ante ullamcorper, eleifend tempus tellus. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Duis mauris massa, auctor in finibus placerat, efficitur sit amet lacus. Pellentesque hendrerit rutrum felis, eu dignissim nisi facilisis non. Sed a est et ex cursus dapibus ac eu mi. Donec mattis nisl non mi pellentesque, ac laoreet quam viverra.
 
 Vestibulum eleifend augue lectus, non pellentesque dolor porta quis. Sed nisi mauris, dignissim nec metus eu, mollis lacinia sapien. Etiam non lectus justo. Integer interdum pharetra enim aliquam ultrices. Quisque vestibulum diam quis est facilisis faucibus. Vivamus ipsum tortor, consequat nec nisl vel, malesuada euismod purus. Proin cursus massa eget tortor lacinia porttitor. Donec efficitur nibh ut pretium consectetur. Nam a mauris ut tellus commodo pretium in vel tellus. Nullam dapibus pharetra purus, in viverra lorem condimentum a. Phasellus id varius odio, sed aliquam dui. Nullam quis vehicula lacus.
+
+```shell
+strings <binary>
+```
