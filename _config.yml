@@ -1,13 +1,13 @@
 # Site settings
-title:          mkorman.info
+title:          mkorman.online
 description:    "Nothing here yet"
 baseurl:        ""
-url:            "https://mkorman.info"
+url:            "https://mkorman.online"
 
 # Author
 author:
   name:         Michał Korman
-  url:          https://mkorman.info
+  url:          https://mkorman.online
   email:        michal.korman [AT] icloud [DOT] com
 
 # Build settings
@@ -17,10 +17,6 @@ markdown:       kramdown
 sass:
   sass_dir:     _sass
   style:        compressed
-
-# Gems
-plugins:
-  - jekyll-paginate
 
 # Permalinks
 permalink:      /:year-:month-:day/:title
