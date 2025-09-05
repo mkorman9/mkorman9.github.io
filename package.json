@@ -1,0 +1,10 @@
+{
+  "name": "mkorman9-github-io",
+  "scripts": {
+    "build": "vite build", 
+    "dev": "vite"
+  },
+  "devDependencies": {
+    "vite": "^7.1.4"
+  }
+}
