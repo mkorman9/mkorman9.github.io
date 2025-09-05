@@ -1,10 +1,16 @@
 {
   "name": "mkorman9-github-io",
+  "private": true,
+  "type": "module",
   "scripts": {
-    "build": "vite build", 
+    "build": "vite build",
     "dev": "vite"
   },
   "devDependencies": {
     "vite": "^7.1.4"
+  },
+  "dependencies": {
+    "@tailwindcss/vite": "^4.1.13",
+    "tailwindcss": "^4.1.13"
   }
 }
